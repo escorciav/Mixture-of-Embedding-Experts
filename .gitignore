@@ -1,0 +1,11 @@
+# Added by Victor
+## data
+data.zip
+data/
+
+# editors
+.ipynb_checkpoints/
+.vscode/
+
+## obvious things to ignore :P
+*.pyc
